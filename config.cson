@@ -10,3 +10,4 @@
     tabLength: 4
     showInvisibles: true
     softTabs: false
+  minimap: {}
